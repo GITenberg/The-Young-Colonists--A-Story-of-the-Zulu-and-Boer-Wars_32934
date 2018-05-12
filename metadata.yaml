@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32934#The-Young-Colonists--A-Story-of-the-Zulu-and-Boer-Wars
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
