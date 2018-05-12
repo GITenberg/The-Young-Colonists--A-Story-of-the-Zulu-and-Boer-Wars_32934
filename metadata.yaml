@@ -1,0 +1,38 @@
+_repo: The-Young-Colonists--A-Story-of-the-Zulu-and-Boer-Wars_32934
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vedder, Simon Harmon
+    alias: Vedder, S. H. (Simon Harmon)
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '37926'
+    url: http://www.gutenberg.org/2009/agents/37926
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Transvaal (South Africa) -- History -- War of 1880-1881 -- Juvenile fiction'
+- !lcsh 'Zulu War, 1879 -- Juvenile fiction'
+title: 'The Young Colonists: A Story of the Zulu and Boer Wars'
+url: http://www.gutenberg.org/ebooks/32934
